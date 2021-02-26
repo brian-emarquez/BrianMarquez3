@@ -1,6 +1,4 @@
- <h1 align="center">Hi 👋, I'm Brian Marquez</h1> 
-<h3 align="center">Systems Engineer, software test, information systems, design patterns and data visualization.</h3>
-
+<h1 align="center">Hi 👋, I'm Brian Marquez</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianmarquez3&label=Profile%20views&color=0e75b6&style=flat" alt="brianmarquez3" /> 
 <img src="https://img.shields.io/github/followers/BrianMarquez3?label=Follow&style=social" /> 
 </p>

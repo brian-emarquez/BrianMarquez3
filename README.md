@@ -11,3 +11,22 @@
 **Contato**
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=LeonardSSH&color=7C3138&style=flat-square)
+
+### 🧾 Github Statistics
+These are some statistics from my github account.
+
+   <table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonardssh&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=LeonardSSH&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true&extra=rysemultiplayer/template,bot,bot-kernel,bot-pieces,bot-plugins,logger,vscode-autocomplete" />
+    </td>
+  </tr>
+</table>
+
+> Provided by **[GitHub Readme Stats]**

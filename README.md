@@ -5,44 +5,6 @@
      [![Profile Views](https://komarev.com/ghpvc/?username=BrianMarquez3SSH&color=7C3138&style=flat-square)
 </p>
 
-Brian (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
 **Tecnologias**
 
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" height="30"  alt="java" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="32"  alt="java" />  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code> <img src="https://camo.githubusercontent.com/91de473fa3f2f749a56effc3e64f1049d108251f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" height="32" alt="python"/>

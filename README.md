@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Brian Marquez</h1> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brianmarquez3&label=Profile%20views&color=0e75b6&style=flat" alt="brianmarquez3"/> 
-<img src="https://img.shields.io/github/followers/BrianMarquez3?label=Follow&style=social"</p> 
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=brianmarquez3&label=Profile%20views&color=0e75b6&style=flat" alt="brianmarquewz3"/> 
+<img src="https://img.shields.io/github/followers/BrianMarquez3?label=Follow&style=social"
+</p> 
 
 </p>
-<p href="https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/">
-<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/-Brian%20Marquez-blue"/>
+<p href="https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/-Brian%20Marquez-blue"/>
 </>
 
-<p href="mailto:brian3marquez@gmail.com">
-<img align="left" alt="E-mail" src="https://img.shields.io/badge/-Contact%20%20%20me-red"/>
+<p href="mailto:brian3marquez@gmail.com"><img align="left" alt="E-mail" src="https://img.shields.io/badge/-Contact%20%20%20me-red"/>
 </p>
 
    <table>

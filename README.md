@@ -11,9 +11,7 @@
 **Contato**
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/)
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=LeonardSSH&color=7C3138&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=BrianMarquez3SSH&color=7C3138&style=flat-square)
 
 ### 🧾 Github Statistics
 These are some statistics from my github account.

@@ -10,4 +10,4 @@
 
 **Contato**
 
-[![Linkedin Badge](https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/)

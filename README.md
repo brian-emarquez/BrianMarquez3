@@ -1,9 +1,10 @@
 <h3 align="center"> Brian Marquez </h3>
 
 <p align="center">  
-     [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/)
-     [![Profile Views](https://komarev.com/ghpvc/?username=BrianMarquez3SSH&color=7C3138&style=flat-square)
 </p>
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/)
+[![Profile Views](https://komarev.com/ghpvc/?username=BrianMarquez3SSH&color=7C3138&style=flat-square)
 
 **Tecnologias**
 

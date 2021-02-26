@@ -2,15 +2,11 @@
 
 <p align="center">
   
-  <a href="https://github.com/BrianMarquez3/Python-Course/tags">
-    <img src="https://img.shields.io/github/tag/BrianMarquez3/Python-Course.svg?label=version&style=flat" alt="Version">
-  </a>
-  <a href="https://img.shields.io/badge/linkedin-blue">
-    <img src="https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/" alt="Stars">
-  </a>
- 
  
 
+ 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/)
+![Profile Views](https://komarev.com/ghpvc/?username=BrianMarquez3SSH&color=7C3138&style=flat-square)
 
   
 </p>

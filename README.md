@@ -1,11 +1,11 @@
 <h3 align="center"> Brian Marquez </h3>
 
 <p align="center">  
-<a> [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/)</p>
-<a> [![Profile Views](https://komarev.com/ghpvc/?username=BrianMarquez3SSH&color=7C3138&style=flat-square) </p>
+     [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/)
+     [![Profile Views](https://komarev.com/ghpvc/?username=BrianMarquez3SSH&color=7C3138&style=flat-square)
 </p>
 
-<h2>नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+Brian (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>

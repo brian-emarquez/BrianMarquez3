@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Brian Marquez</h1> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brianmarquez3&label=Profile%20views&color=0e75b6&style=flat" alt="brianmarquez3" /> 
+
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=brianmarquez3&label=Profile%20views&color=0e75b6&style=flat" alt="brianmarquez3" /> 
 <img src="https://img.shields.io/github/followers/BrianMarquez3?label=Follow&style=social" /> 
-</p>
+</a>
+<a href="https://www.linkedin.com/in/herlloncardoso">
+<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/-Herllon%20Cardoso-blue"/>
+</a>
+<a href="mailto:cardoso.herllon@gmail.com">
+<img align="left" alt="E-mail" src="https://img.shields.io/badge/-Contact%20%20%20me-red"/>
+</a>
 
    <table>
   <tr>

@@ -10,7 +10,7 @@
 <img a alt="E-mail" src="https://img.shields.io/badge/-Contact%20%20%20me-red"/>
   
 <img src="https://img.shields.io/github/followers/BrianMarquez3?label=Follow&style=social"/>
-<img src="https://img.shields.io/website-up-down-green-red/http/lbesson.bitbucket.org.svg">
+<img src="https://img.shields.io/website-up-down-green-red/http/lbesson.bitbucket.org.svg" src="https://www.youtube.com/watch?v=FKFA2vY5kzg&list=PLnYLFE_wg_98ALeambJT27XmqManlL_2t&index=4">
 
 </p> 
 

@@ -10,8 +10,6 @@
 <img align="center" alt="E-mail" src="https://img.shields.io/badge/-Contact%20%20%20me-red"/>
 </p> 
 
-</a>
-
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">

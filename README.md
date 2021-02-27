@@ -46,7 +46,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
-<br>
+
+<div align="center">
+   <h3>hola</h3>
+</div>
 <hr/>
 
 <div align="center">
@@ -54,5 +57,3 @@
 </div>
 
 <hr/>
-
-

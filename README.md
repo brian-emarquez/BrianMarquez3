@@ -4,14 +4,13 @@
 <img src="https://komarev.com/ghpvc/?username=brianmarquez3&label=Profile%20views&color=0e75b6&style=flat" alt="brianmarquez3"/>
   
 <a href="https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/">
-<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/-Brian%20Marquez-blue"/>
+<img  alt="LinkedIn" src="https://img.shields.io/badge/-Brian%20Marquez-blue"/>
   
 <a href="mailto:brian3marquez@gmail.com">
-<img align="left" alt="E-mail" src="https://img.shields.io/badge/-Contact%20%20%20me-red"/>
+<img a alt="E-mail" src="https://img.shields.io/badge/-Contact%20%20%20me-red"/>
   
 <img src="https://img.shields.io/github/followers/BrianMarquez3?label=Follow&style=social"/>
-
-
+<img src="https://img.shields.io/github/followers/BrianMarquez3?label=following&style=social"/>
 </p> 
 
 <table>

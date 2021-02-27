@@ -2,16 +2,16 @@
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=brianmarquez3&label=Profile%20views&color=0e75b6&style=flat" alt="brianmarquez3"/>
-<img src= "https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/" alt="brianmarquez3"/>  <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Brian%20Marquez-blue"/>
+
   
 </p> 
 
 <a href="https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/">
-<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Brian%20Marquez-blue"/>
+<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/-Brian%20Marquez-blue"/>
 </a>
 
 <a href="mailto:brian3marquez@gmail.com">
-<img align="right" alt="E-mail" src="https://img.shields.io/badge/-Contact%20%20%20me-red"/>
+<img align="center" alt="E-mail" src="https://img.shields.io/badge/-Contact%20%20%20me-red"/>
 </a>
 
 <table>

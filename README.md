@@ -44,11 +44,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)g
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianmarquez3&" alt="brianmarquez3" /></p>-->
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=BrianMarquez3&theme=flat&no-frame=true&margin-w=30&no-bg=true" />
+   <img src="https://github-profile-trophy.vercel.app/?username=BrianMarquez3&theme=flat&no-frame=true&margin-w=40&no-bg=true" />
 </div>

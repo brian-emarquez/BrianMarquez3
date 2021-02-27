@@ -2,6 +2,8 @@
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=brianmarquez3&label=Profile%20views&color=0e75b6&style=flat" alt="brianmarquez3"/>
+<img src= "https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/" alt="brianmarquez3"/>  <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Brian%20Marquez-blue"/>
+  
 </p> 
 
 <a href="https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/">

@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brian Marquez</h1> 
 
 <p align="left"> 
+ <img src="https://img.shields.io/github/followers/BrianMarquez3?label=Follow&style=social"> 
+  
 <img src="https://komarev.com/ghpvc/?username=brianmarquez3&label=Profile%20views&color=0e75b6&style=flat" alt="brianmarquez3"/>
   
 <a href="https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/">
 <img  alt="LinkedIn" src="https://img.shields.io/badge/-Brian%20Marquez-blue"/>
-  
-<img src="https://img.shields.io/github/followers/BrianMarquez3?label=Follow&style=social">
-  
+    
 <img src="https://img.shields.io/website-up-down-green-red/http/lbesson.bitbucket.org.svg" src="https://www.youtube.com/watch?v=FKFA2vY5kzg&list=PLnYLFE_wg_98ALeambJT27XmqManlL_2t&index=4">
 
 <a href="mailto:brian3marquez@gmail.com">

@@ -53,7 +53,7 @@
 <hr/>
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=a-legotin&theme=flat&no-frame=true&margin-w=30&no-bg=true" />
+   <img src="https://github-profile-trophy.vercel.app/?username=BrianMarquez3&theme=flat&no-frame=true&margin-w=1&no-bg=true" />
 </div>
 
 <hr/>

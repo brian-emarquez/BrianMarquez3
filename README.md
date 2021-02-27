@@ -7,8 +7,6 @@
   
 <a href="https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/">
 <img  alt="LinkedIn" src="https://img.shields.io/badge/-Brian%20Marquez-blue"/>
-    
-<img src="https://img.shields.io/website-up-down-green-red/http/lbesson.bitbucket.org.svg" src="https://www.youtube.com/watch?v=FKFA2vY5kzg&list=PLnYLFE_wg_98ALeambJT27XmqManlL_2t&index=4">
 
 <a href="mailto:brian3marquez@gmail.com">
 <img a alt="E-mail" src="https://img.shields.io/badge/-Contact%20%20%20me-red" />

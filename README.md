@@ -47,13 +47,10 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 
-<div align="center">
-   <h3>🚀 .NET Core, Angular, Docker, Kubernetes</h3>
-</div>
-<hr/>
 
+<hr/>
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=BrianMarquez3&theme=flat&no-frame=true&margin-w=1&no-bg=true" />
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=BrianMarquez3&theme=flat&no-frame=true&margin-w=30&no-bg=true" />
+
 
 <hr/>

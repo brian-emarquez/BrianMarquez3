@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Brian Marquez</h1> 
+
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Brian Marquez
 
 <p align="left"> 
  <img src="https://img.shields.io/github/followers/BrianMarquez3?label=Follow&style=social"> 

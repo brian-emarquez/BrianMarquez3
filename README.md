@@ -1,22 +1,27 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Brian Marquez
  
+<p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=brianmarquez3&label=Profile%20views&color=0e75b6&style=flat" alt="brianmarquez3"/>
-<img align="right" src="https://i.imgur.com/P2eHx9l.png" width="350"/>
   
 <a href="https://www.linkedin.com/in/brian-enrique-marquez-inca-roca-57a28a1b1/">
 <img  alt="LinkedIn" src="https://img.shields.io/badge/-Brian%20Marquez-blue"/>
-
+  
 <a href="mailto:brian3marquez@gmail.com">
-<img a alt="E-mail" src="https://img.shields.io/badge/-Contact%20%20%20me-red" />
+<img a alt="E-mail" src="https://img.shields.io/badge/-Contact%20%20%20me-red"/>
+  
+<img src="https://img.shields.io/github/followers/BrianMarquez3?label=Follow&style=social"/>
+<img src="https://img.shields.io/website-up-down-green-red/http/lbesson.bitbucket.org.svg" src="https://www.youtube.com/watch?v=FKFA2vY5kzg&list=PLnYLFE_wg_98ALeambJT27XmqManlL_2t&index=4">
 
 ### Hey there! Welcome to my repositories! How is it going? 👋🚀
 
 - 💻 Node, ReactJS, React Native, Typescript and Flutter.
 - ✨ Always learning in order to be better than yesterday.
 
+<br>
+<br>
 
-
+---
 
 ### Tecnologias
 

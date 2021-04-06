@@ -14,18 +14,19 @@
 <img src="https://img.shields.io/github/followers/BrianMarquez3?label=Follow&style=social"/>
 <img src="https://img.shields.io/website-up-down-green-red/http/lbesson.bitbucket.org.svg" src="https://www.youtube.com/watch?v=FKFA2vY5kzg&list=PLnYLFE_wg_98ALeambJT27XmqManlL_2t&index=4">
 
-### Hey there! Welcome to my repositories! How is it going? 👋🚀
+### Hey there! Welcome to my repositories! 👋🚀
 
-- 💻 Node, ReactJS, React Native, Typescript and Flutter.
+- 💻 C++, PHP, Djaango, JavaScript, Kivy, etc.
 - ✨ Always learning in order to be better than yesterday.
 
 <br>
 <br>
 <br>
 <br>
+
 ---
 
-### Tecnologias
+### Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)

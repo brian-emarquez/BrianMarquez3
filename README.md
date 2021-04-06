@@ -3,7 +3,6 @@
 <br>
 <img align="right" src="https://i.imgur.com/P2eHx9l.png" width="350"/>
 
-
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=brianmarquez3&label=Profile%20views&color=0e75b6&style=flat" alt="brianmarquez3"/>
   

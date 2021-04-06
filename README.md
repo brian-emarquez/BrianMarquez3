@@ -17,7 +17,7 @@
 
 ### Hey there! Welcome to my repositories! 👋🚀
 
-- 💻 Technologies: C++, PHP, Djaango, JavaScript, Kivy, etc.
+- 💻 Technologies: C++, PHP, Django, Javascript, Kivy, etc.
 - ✨ Always learning in order to be better than yesterday.
 
 

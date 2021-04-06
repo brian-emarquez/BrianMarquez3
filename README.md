@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brianmarquez3&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true" />
+    
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BrianMarquez3&count_private=true&show_icons=true&theme=radical" alt=BrianMarquez3 /> </p>
+
     </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=brianmarquez3&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true&extra=rysemultiplayer/template,bot,bot-kernel,bot-pieces,bot-plugins,logger,vscode-autocomplete" />
-    </td>
+    
   </tr>
 </table>
 

@@ -12,17 +12,12 @@
 <a href="mailto:brian3marquez@gmail.com">
 <img a alt="E-mail" src="https://img.shields.io/badge/-Contact%20%20%20me-red" />
 
-</p> 
-
 <table>
   <tr>
-    <td align="center" style="padding=0;width=50%;">
-    
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BrianMarquez3&count_private=true&show_icons=true&theme=radical" alt=BrianMarquez3 /> </p>
-
-    </td>
-    
+    <td align="center" style="padding=0;width=50%;"> </td>
+<td align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BrianMarquez3&count_private=true&show_icons=true&theme=radical" alt=BrianMarquez3> </td>
   </tr>
+  
 </table>
 
 ### Tecnologias

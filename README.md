@@ -18,18 +18,11 @@
 
 ### Hey there! Welcome to my repositories! 👋🚀
 
-- 💻 C++, PHP, Djaango, JavaScript, Kivy, etc.
+- 💻 Technologies: C++, PHP, Djaango, JavaScript, Kivy, etc.
 - ✨ Always learning in order to be better than yesterday.
 
-<br>
-<br>
-<br>
-<br>
 
----
-
-### Technologies
-
+<!--### Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
@@ -49,8 +42,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
-![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)-->
 
 
 <!--<hr/>

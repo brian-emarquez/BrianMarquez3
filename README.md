@@ -16,7 +16,7 @@
 
 ### Hey there! Welcome to my repositories! 👋🚀
 
-- 💻 Technologies: Java, Python, C++, Django REST API Frameworks, Javascript, Kivy, etc.
+- 💻 Technologies: BlockChain, Java, Python, C++, Django REST API Frameworks, Javascript, Kivy, etc.
 - ✨ Always learning in order to be better than yesterday.
 
 
